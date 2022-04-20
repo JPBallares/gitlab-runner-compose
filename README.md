@@ -1,9 +1,9 @@
 # gitlab-runner-compose
 Docker compose for gitlab runner
 
-## update the config/gitlab-runner/config.toml
-- change the GITLAB_RUNNER_TOKEN to your token base on repository of gitlab under CI/CD
-- if you're testing other images change the node:12-alpine to desired image
+## update the `config/gitlab-runner/config.toml`
+- change the `GITLAB_RUNNER_TOKEN` to your token base on repository of gitlab under CI/CD
+- if you're testing other images change the `node:12-alpine` to desired image
 
 ## running the runner
 ```
