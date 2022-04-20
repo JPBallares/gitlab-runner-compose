@@ -16,3 +16,6 @@ You're now inside the container
 gitlab-runner register # if you want to update the config
 gitlab-runner verify # to update the status to gitlab
 ```
+
+
+> Currently having issues with caching
