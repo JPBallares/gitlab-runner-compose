@@ -7,7 +7,7 @@ check_interval = 0
 [[runners]]
   name = "feedme-runner"
   url = "https://gitlab.com/"
-  token = "NRcjCTb-S6eDCgPeMZ6h"
+  token = "GITLAB_RUNNER_TOKEN"
   executor = "docker"
   [runners.custom_build_dir]
   [runners.cache]
